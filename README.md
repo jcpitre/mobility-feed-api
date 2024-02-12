@@ -39,7 +39,7 @@ curl --location 'https://api.mobilitydatabase.org/v1/metadata' \
 Replace `[Your Access Token]` with your actual access token.
 
 ### Via Swagger UI
-You can also use the [Swagger UI](https://mobilitydata.github.io/mobility-feed-api/SwaggerUI/index.html) to make requests. Input your access token in the required field in the Swagger interface.
+You can also use the [Swagger UI](https://jcpitre/mobility-feed-api/SwaggerUI/index.html) to make requests. Input your access token in the required field in the Swagger interface.
 
 ## Refreshing the Access Token
 Access tokens are subject to expiration. Use your refresh token to generate a new access token when necessary.
