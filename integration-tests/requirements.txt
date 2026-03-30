@@ -1,4 +1,0 @@
-requests
-pandas
-gtfs_kit
-rich
